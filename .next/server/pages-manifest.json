@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/contact": "pages/api/contact.js",
+  "/api/get-now-playing": "pages/api/get-now-playing.js",
+  "/api/get-spotify-data": "pages/api/get-spotify-data.js",
+  "/api/github": "pages/api/github.js",
+  "/api/views/[slug]": "pages/api/views/[slug].js",
+  "/api/views": "pages/api/views.js",
+  "/blog": "pages/blog.js",
+  "/blog/[slug]": "pages/blog/[slug].js",
+  "/": "pages/index.html",
+  "/links": "pages/links.html",
+  "/projects": "pages/projects.js",
+  "/research": "pages/research.html",
+  "/research/[slug]": "pages/research/[slug].js",
+  "/spotify": "pages/spotify.js",
+  "/stats": "pages/stats.html",
+  "/tools": "pages/tools.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
